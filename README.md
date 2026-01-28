@@ -6,6 +6,21 @@ The repository focuses on testing mindset, scalability, and real-world automatio
 
 ---
 
+## Assignment Coverage Mapping
+
+This repository addresses all parts of the QA automation case study as follows:
+
+- Part 1: Debugging Flaky Tests  
+  Implemented and documented in `docs/flaky-test-analysis.md`, including root cause analysis and improved Playwright test examples.
+
+- Part 2: Test Framework Design  
+  Covered in `docs/framework-design.md` and `docs/assumptions.md`, along with the implemented project structure.
+
+- Part 3: API + UI + Mobile Integration Test  
+  Implemented in `tests/integration/test_project_creation_flow.py`, supported by API, UI, and mobile test modules.
+
+This structure ensures clear separation of concerns while demonstrating real-world QA automation practices.
+
 ## Scope of Testing
 
 The automation approach in this repository covers:
